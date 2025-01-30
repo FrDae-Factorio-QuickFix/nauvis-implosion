@@ -7,5 +7,5 @@
     "factorio_version": "2.0",
     "dependencies": ["base","space-age >= 2.0.23"],
     "space_travel_required": true,
-    "description": "This mod add a countdown to nauvis imploding, destroying Nauvis and altering the game loop. It also includes a new planet similar to a Nauvis Hellworld to acquire Nauvis resources later."
+    "description": "○🌐This mod add a countdown to nauvis imploding, destroying Nauvis and altering the game loop. It also includes a new planet similar to a Nauvis Hellworld to acquire Nauvis resources later."
   }
